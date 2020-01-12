@@ -1,9 +1,5 @@
 # include <stdio.h>
-<<<<<<< HEAD
-size_t my_strlen(char *s)
-=======
 int my_strlen(char *s)
->>>>>>> e24f034f4e44a396b728a59b4beea291f31da880
 {
  	char *p = s;
 	while(*p)
